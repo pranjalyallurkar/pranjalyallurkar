@@ -1,3 +1,26 @@
+<h1 align="center">
+  Hi 👋, I'm Pranjal Yallurkar
+</h1>
+
+<h3 align="center">
+  Python | React | Django Developer and 
+  Exploring AWS, Docker, Kubernetes & DevOps
+</h3>
+
+<p align="center">
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
 # 💫 About Me:
 💻 Building scalable full-stack applications with React & Django<br>☁️ Exploring AWS, Docker, Kubernetes, and DevOps<br>⚙️ Passionate about backend development, REST APIs, and system design<br>🚀 Java • Python • SQL • React • Django • AWS • Docker<br>📂 Built projects including an Applicant Tracking System (ATS) and Collaborative Workspace<br>🔧 Skilled in Git, GitHub, Linux, Shell Scripting, and DevOps fundamentals
 
